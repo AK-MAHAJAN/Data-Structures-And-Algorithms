@@ -1,2 +1,3 @@
 # Data-Structures-And-Algorithms
-DSA Practice Repo
+
+Data Structures and Algorithms Practice Questions
